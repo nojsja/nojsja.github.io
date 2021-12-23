@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>nojsja</title>
+  <icon>https://www.gravatar.com/avatar/ba4a4c9ed2a98e1ba0d030ca3449d4a5</icon>
+  <subtitle>个人博客</subtitle>
+  <link href="https://nojsja.github.io/blogs/atom.xml" rel="self"/>
+  
+  <link href="https://nojsja.github.io/blogs/"/>
+  <updated>2021-12-23T16:02:20.761Z</updated>
+  <id>https://nojsja.github.io/blogs/</id>
+  
+  <author>
+    <name>nojsja</name>
+    <email>e-mail_address</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Electron 进程管理工具开发日记3：进程池负载均衡、智能启停</title>
+    <link href="https://nojsja.github.io/blogs/2021/12/22/1deae768.html/"/>
+    <id>https://nojsja.github.io/blogs/2021/12/22/1deae768.html/</id>
+    <published>2021-12-22T05:22:31.000Z</published>
+    <updated>2021-12-23T16:02:20.761Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Electron" scheme="https://nojsja.github.io/blogs/categories/Electron/"/>
+    
+    <category term="Node" scheme="https://nojsja.github.io/blogs/categories/Electron/Node/"/>
+    
+    
+    <category term="node" scheme="https://nojsja.github.io/blogs/tags/node/"/>
+    
+    <category term="electron" scheme="https://nojsja.github.io/blogs/tags/electron/"/>
+    
+    <category term="process" scheme="https://nojsja.github.io/blogs/tags/process/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记一次 React hooks 组件开发和优化记录</title>
+    <link href="https://nojsja.github.io/blogs/2021/11/29/adb1f235.html/"/>
+    <id>https://nojsja.github.io/blogs/2021/11/29/adb1f235.html/</id>
+    <published>2021-11-29T02:30:21.000Z</published>
+    <updated>2021-12-04T14:33:18.721Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="React" scheme="https://nojsja.github.io/blogs/categories/React/"/>
+    
+    
+    <category term="react" scheme="https://nojsja.github.io/blogs/tags/react/"/>
+    
+    <category term="hooks" scheme="https://nojsja.github.io/blogs/tags/hooks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Shadowsocks 跨平台客户端开发日记</title>
+    <link href="https://nojsja.github.io/blogs/2021/10/04/5384287.html/"/>
+    <id>https://nojsja.github.io/blogs/2021/10/04/5384287.html/</id>
+    <published>2021-10-04T13:13:09.000Z</published>
+    <updated>2021-12-04T14:33:18.721Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Electron" scheme="https://nojsja.github.io/blogs/categories/Electron/"/>
+    
+    
+    <category term="shadowsocks" scheme="https://nojsja.github.io/blogs/tags/shadowsocks/"/>
+    
+    <category term="electron" scheme="https://nojsja.github.io/blogs/tags/electron/"/>
+    
+    <category term="crossplatform" scheme="https://nojsja.github.io/blogs/tags/crossplatform/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>taro小程序开发笔记</title>
+    <link href="https://nojsja.github.io/blogs/2021/07/08/671354ab.html/"/>
+    <id>https://nojsja.github.io/blogs/2021/07/08/671354ab.html/</id>
+    <published>2021-07-08T02:10:31.000Z</published>
+    <updated>2021-12-04T14:33:18.721Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Taro" scheme="https://nojsja.github.io/blogs/categories/Taro/"/>
+    
+    
+    <category term="taro" scheme="https://nojsja.github.io/blogs/tags/taro/"/>
+    
+    <category term="mini" scheme="https://nojsja.github.io/blogs/tags/mini/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo个人网站优化探索</title>
+    <link href="https://nojsja.github.io/blogs/2021/05/04/48105820.html/"/>
+    <id>https://nojsja.github.io/blogs/2021/05/04/48105820.html/</id>
+    <published>2021-05-04T04:04:43.000Z</published>
+    <updated>2021-12-04T14:33:18.721Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Performance" scheme="https://nojsja.github.io/blogs/categories/Performance/"/>
+    
+    <category term="Hexo" scheme="https://nojsja.github.io/blogs/categories/Performance/Hexo/"/>
+    
+    
+    <category term="performance" scheme="https://nojsja.github.io/blogs/tags/performance/"/>
+    
+    <category term="hexo" scheme="https://nojsja.github.io/blogs/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2021金三银四前端面试笔记</title>
+    <link href="https://nojsja.github.io/blogs/2021/04/24/4f89505c.html/"/>
+    <id>https://nojsja.github.io/blogs/2021/04/24/4f89505c.html/</id>
+    <published>2021-04-24T08:15:05.000Z</published>
+    <updated>2021-12-04T14:33:18.721Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="面试" scheme="https://nojsja.github.io/blogs/categories/%E9%9D%A2%E8%AF%95/"/>
+    
+    
+    <category term="前端" scheme="https://nojsja.github.io/blogs/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="面试" scheme="https://nojsja.github.io/blogs/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端性能优化技巧详解(1)</title>
+    <link href="https://nojsja.github.io/blogs/2021/02/07/9acea179.html/"/>
+    <id>https://nojsja.github.io/blogs/2021/02/07/9acea179.html/</id>
+    <published>2021-02-07T04:37:10.000Z</published>
+    <updated>2021-12-04T14:33:18.721Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Performance" scheme="https://nojsja.github.io/blogs/categories/Performance/"/>
+    
+    <category term="Javascript" scheme="https://nojsja.github.io/blogs/categories/Performance/Javascript/"/>
+    
+    <category term="HTML" scheme="https://nojsja.github.io/blogs/categories/Performance/Javascript/HTML/"/>
+    
+    <category term="CSS" scheme="https://nojsja.github.io/blogs/categories/Performance/Javascript/HTML/CSS/"/>
+    
+    
+    <category term="css" scheme="https://nojsja.github.io/blogs/tags/css/"/>
+    
+    <category term="javascript" scheme="https://nojsja.github.io/blogs/tags/javascript/"/>
+    
+    <category term="performance" scheme="https://nojsja.github.io/blogs/tags/performance/"/>
+    
+    <category term="html" scheme="https://nojsja.github.io/blogs/tags/html/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端123：浏览器缓存的工作方式</title>
+    <link href="https://nojsja.github.io/blogs/2021/01/29/fec67cee.html/"/>
+    <id>https://nojsja.github.io/blogs/2021/01/29/fec67cee.html/</id>
+    <published>2021-01-29T07:43:24.000Z</published>
+    <updated>2021-12-04T14:33:18.721Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="HTTP" scheme="https://nojsja.github.io/blogs/categories/HTTP/"/>
+    
+    
+    <category term="cache" scheme="https://nojsja.github.io/blogs/tags/cache/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>理解React：Fiber架构和新旧生命周期</title>
+    <link href="https://nojsja.github.io/blogs/2021/01/25/a33739d5.html/"/>
+    <id>https://nojsja.github.io/blogs/2021/01/25/a33739d5.html/</id>
+    <published>2021-01-25T03:16:47.000Z</published>
+    <updated>2021-12-04T14:33:18.721Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="React" scheme="https://nojsja.github.io/blogs/categories/React/"/>
+    
+    
+    <category term="react" scheme="https://nojsja.github.io/blogs/tags/react/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Electron多进程工具开发日记2：进程管理UI</title>
+    <link href="https://nojsja.github.io/blogs/2020/12/18/927d467e.html/"/>
+    <id>https://nojsja.github.io/blogs/2020/12/18/927d467e.html/</id>
+    <published>2020-12-18T09:36:40.000Z</published>
+    <updated>2021-12-23T15:21:30.951Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Electron" scheme="https://nojsja.github.io/blogs/categories/Electron/"/>
+    
+    <category term="Node" scheme="https://nojsja.github.io/blogs/categories/Electron/Node/"/>
+    
+    
+    <category term="node" scheme="https://nojsja.github.io/blogs/tags/node/"/>
+    
+    <category term="electron" scheme="https://nojsja.github.io/blogs/tags/electron/"/>
+    
+    <category term="process" scheme="https://nojsja.github.io/blogs/tags/process/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Electron/Node多进程工具开发日记</title>
+    <link href="https://nojsja.github.io/blogs/2020/12/08/6d582478.html/"/>
+    <id>https://nojsja.github.io/blogs/2020/12/08/6d582478.html/</id>
+    <published>2020-12-08T08:34:01.000Z</published>
+    <updated>2021-12-23T15:21:30.951Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Electron" scheme="https://nojsja.github.io/blogs/categories/Electron/"/>
+    
+    <category term="Node" scheme="https://nojsja.github.io/blogs/categories/Electron/Node/"/>
+    
+    
+    <category term="node" scheme="https://nojsja.github.io/blogs/tags/node/"/>
+    
+    <category term="electron" scheme="https://nojsja.github.io/blogs/tags/electron/"/>
+    
+    <category term="process" scheme="https://nojsja.github.io/blogs/tags/process/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode探险记：递归和栈</title>
+    <link href="https://nojsja.github.io/blogs/2020/10/25/d9a748a2.html/"/>
+    <id>https://nojsja.github.io/blogs/2020/10/25/d9a748a2.html/</id>
+    <published>2020-10-24T16:00:00.000Z</published>
+    <updated>2021-12-04T14:33:18.717Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Javascript" scheme="https://nojsja.github.io/blogs/categories/Javascript/"/>
+    
+    
+    <category term="leetcode" scheme="https://nojsja.github.io/blogs/tags/leetcode/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于deepin-wine在Ubuntu20.04上安装新版微信</title>
+    <link href="https://nojsja.github.io/blogs/2020/10/23/c1bb33c8.html/"/>
+    <id>https://nojsja.github.io/blogs/2020/10/23/c1bb33c8.html/</id>
+    <published>2020-10-22T16:00:00.000Z</published>
+    <updated>2021-12-04T14:33:18.713Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://nojsja.github.io/blogs/categories/Linux/"/>
+    
+    
+    <category term="ubuntu20.04" scheme="https://nojsja.github.io/blogs/tags/ubuntu20-04/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>32个手撕JS，彻底摆脱初级前端</title>
+    <link href="https://nojsja.github.io/blogs/2020/09/25/cdafcd68.html/"/>
+    <id>https://nojsja.github.io/blogs/2020/09/25/cdafcd68.html/</id>
+    <published>2020-09-25T03:19:34.000Z</published>
+    <updated>2021-12-04T14:33:18.713Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Js" scheme="https://nojsja.github.io/blogs/categories/Js/"/>
+    
+    
+    <category term="js" scheme="https://nojsja.github.io/blogs/tags/js/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于Antd库实现可编辑树组件</title>
+    <link href="https://nojsja.github.io/blogs/2020/08/28/16efc21c.html/"/>
+    <id>https://nojsja.github.io/blogs/2020/08/28/16efc21c.html/</id>
+    <published>2020-08-28T08:19:59.000Z</published>
+    <updated>2021-12-04T14:33:18.713Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Antd" scheme="https://nojsja.github.io/blogs/categories/Antd/"/>
+    
+    <category term="React" scheme="https://nojsja.github.io/blogs/categories/Antd/React/"/>
+    
+    
+    <category term="antd" scheme="https://nojsja.github.io/blogs/tags/antd/"/>
+    
+    <category term="tree" scheme="https://nojsja.github.io/blogs/tags/tree/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于Electron的smb客户端文件上传优化探索</title>
+    <link href="https://nojsja.github.io/blogs/2020/08/16/1597e5d6.html/"/>
+    <id>https://nojsja.github.io/blogs/2020/08/16/1597e5d6.html/</id>
+    <published>2020-08-16T14:30:00.000Z</published>
+    <updated>2021-12-04T14:33:18.709Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Electron" scheme="https://nojsja.github.io/blogs/categories/Electron/"/>
+    
+    
+    <category term="upload" scheme="https://nojsja.github.io/blogs/tags/upload/"/>
+    
+    <category term="smb" scheme="https://nojsja.github.io/blogs/tags/smb/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于Electron的smb客户端开发记录</title>
+    <link href="https://nojsja.github.io/blogs/2020/07/17/c1579944.html/"/>
+    <id>https://nojsja.github.io/blogs/2020/07/17/c1579944.html/</id>
+    <published>2020-07-17T07:59:00.000Z</published>
+    <updated>2021-12-04T14:33:18.709Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Electron" scheme="https://nojsja.github.io/blogs/categories/Electron/"/>
+    
+    
+    <category term="smb" scheme="https://nojsja.github.io/blogs/tags/smb/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端浏览器开发工具</title>
+    <link href="https://nojsja.github.io/blogs/2020/04/16/a493952e.html/"/>
+    <id>https://nojsja.github.io/blogs/2020/04/16/a493952e.html/</id>
+    <published>2020-04-16T03:45:00.000Z</published>
+    <updated>2021-12-04T14:33:18.709Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Tools" scheme="https://nojsja.github.io/blogs/categories/Tools/"/>
+    
+    
+    <category term="browser" scheme="https://nojsja.github.io/blogs/tags/browser/"/>
+    
+    <category term="tools" scheme="https://nojsja.github.io/blogs/tags/tools/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于s3对象存储多文件分片上传的Javascript实现（二）</title>
+    <link href="https://nojsja.github.io/blogs/2020/03/26/7507699.html/"/>
+    <id>https://nojsja.github.io/blogs/2020/03/26/7507699.html/</id>
+    <published>2020-03-26T08:18:00.000Z</published>
+    <updated>2021-12-04T14:33:18.705Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Javascript" scheme="https://nojsja.github.io/blogs/categories/Javascript/"/>
+    
+    <category term="Node" scheme="https://nojsja.github.io/blogs/categories/Javascript/Node/"/>
+    
+    
+    <category term="upload" scheme="https://nojsja.github.io/blogs/tags/upload/"/>
+    
+    <category term="node" scheme="https://nojsja.github.io/blogs/tags/node/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>echarts图表-树形图开发记录</title>
+    <link href="https://nojsja.github.io/blogs/2020/03/22/39caa941.html/"/>
+    <id>https://nojsja.github.io/blogs/2020/03/22/39caa941.html/</id>
+    <published>2020-03-22T10:24:00.000Z</published>
+    <updated>2021-12-04T14:33:18.705Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Echarts" scheme="https://nojsja.github.io/blogs/categories/Echarts/"/>
+    
+    
+    <category term="echarts" scheme="https://nojsja.github.io/blogs/tags/echarts/"/>
+    
+    <category term="react" scheme="https://nojsja.github.io/blogs/tags/react/"/>
+    
+  </entry>
+  
+</feed>
