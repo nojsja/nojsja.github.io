@@ -6,7 +6,7 @@
   <link href="https://nojsja.github.io/blogs/atom.xml" rel="self"/>
   
   <link href="https://nojsja.github.io/blogs/"/>
-  <updated>2021-12-23T16:02:20.761Z</updated>
+  <updated>2022-06-17T15:29:15.890Z</updated>
   <id>https://nojsja.github.io/blogs/</id>
   
   <author>
@@ -17,11 +17,152 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>网络代理客户端开发日记2：负载均衡网关</title>
+    <link href="https://nojsja.github.io/blogs/2022/06/16/b15c069b.html/"/>
+    <id>https://nojsja.github.io/blogs/2022/06/16/b15c069b.html/</id>
+    <published>2022-06-16T11:24:55.000Z</published>
+    <updated>2022-06-17T15:29:15.890Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Electron" scheme="https://nojsja.github.io/blogs/categories/Electron/"/>
+    
+    
+    <category term="shadowsocks" scheme="https://nojsja.github.io/blogs/tags/shadowsocks/"/>
+    
+    <category term="electron" scheme="https://nojsja.github.io/blogs/tags/electron/"/>
+    
+    <category term="ssr" scheme="https://nojsja.github.io/blogs/tags/ssr/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Canvas：实现矩形元素的拖拽和伸缩</title>
+    <link href="https://nojsja.github.io/blogs/2022/03/04/96dbc922.html/"/>
+    <id>https://nojsja.github.io/blogs/2022/03/04/96dbc922.html/</id>
+    <published>2022-03-04T02:27:54.000Z</published>
+    <updated>2022-04-03T09:44:42.473Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Canvas" scheme="https://nojsja.github.io/blogs/categories/Canvas/"/>
+    
+    
+    <category term="canvas" scheme="https://nojsja.github.io/blogs/tags/canvas/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用 Node.js 实现 http(s) 代理服务器</title>
+    <link href="https://nojsja.github.io/blogs/2022/02/21/74661556.html/"/>
+    <id>https://nojsja.github.io/blogs/2022/02/21/74661556.html/</id>
+    <published>2022-02-21T06:40:18.000Z</published>
+    <updated>2022-04-03T09:44:42.473Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Node.js" scheme="https://nojsja.github.io/blogs/categories/Node-js/"/>
+    
+    <category term="HTTP" scheme="https://nojsja.github.io/blogs/categories/Node-js/HTTP/"/>
+    
+    
+    <category term="proxy" scheme="https://nojsja.github.io/blogs/tags/proxy/"/>
+    
+    <category term="http" scheme="https://nojsja.github.io/blogs/tags/http/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端性能优化技巧详解-2</title>
+    <link href="https://nojsja.github.io/blogs/2022/02/09/9a061a71.html/"/>
+    <id>https://nojsja.github.io/blogs/2022/02/09/9a061a71.html/</id>
+    <published>2022-02-09T06:00:32.000Z</published>
+    <updated>2022-02-13T03:44:46.349Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Webpack" scheme="https://nojsja.github.io/blogs/categories/Webpack/"/>
+    
+    <category term="Performance" scheme="https://nojsja.github.io/blogs/categories/Webpack/Performance/"/>
+    
+    
+    <category term="webpack" scheme="https://nojsja.github.io/blogs/tags/webpack/"/>
+    
+    <category term="performance" scheme="https://nojsja.github.io/blogs/tags/performance/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>融云 IM 即时聊天系统 SDK 架构研读笔记</title>
+    <link href="https://nojsja.github.io/blogs/2022/01/21/d0e19e78.html/"/>
+    <id>https://nojsja.github.io/blogs/2022/01/21/d0e19e78.html/</id>
+    <published>2022-01-21T08:43:29.000Z</published>
+    <updated>2022-02-13T03:44:46.349Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="IM" scheme="https://nojsja.github.io/blogs/categories/IM/"/>
+    
+    <category term="Architecture" scheme="https://nojsja.github.io/blogs/categories/IM/Architecture/"/>
+    
+    
+    <category term="im" scheme="https://nojsja.github.io/blogs/tags/im/"/>
+    
+    <category term="chat" scheme="https://nojsja.github.io/blogs/tags/chat/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Electron 进程管理工具开发日记3：进程池负载均衡、智能启停</title>
     <link href="https://nojsja.github.io/blogs/2021/12/22/1deae768.html/"/>
     <id>https://nojsja.github.io/blogs/2021/12/22/1deae768.html/</id>
     <published>2021-12-22T05:22:31.000Z</published>
-    <updated>2021-12-23T16:02:20.761Z</updated>
+    <updated>2021-12-24T14:24:10.720Z</updated>
     
     
       
@@ -79,7 +220,7 @@
     <link href="https://nojsja.github.io/blogs/2021/10/04/5384287.html/"/>
     <id>https://nojsja.github.io/blogs/2021/10/04/5384287.html/</id>
     <published>2021-10-04T13:13:09.000Z</published>
-    <updated>2021-12-04T14:33:18.721Z</updated>
+    <updated>2022-06-17T15:12:03.077Z</updated>
     
     
       
@@ -99,7 +240,7 @@
     
     <category term="electron" scheme="https://nojsja.github.io/blogs/tags/electron/"/>
     
-    <category term="crossplatform" scheme="https://nojsja.github.io/blogs/tags/crossplatform/"/>
+    <category term="ssr" scheme="https://nojsja.github.io/blogs/tags/ssr/"/>
     
   </entry>
   
@@ -571,6 +712,413 @@
     <category term="echarts" scheme="https://nojsja.github.io/blogs/tags/echarts/"/>
     
     <category term="react" scheme="https://nojsja.github.io/blogs/tags/react/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于s3对象存储多文件分片上传的Javascript实现（一）</title>
+    <link href="https://nojsja.github.io/blogs/2020/03/07/37469a41.html/"/>
+    <id>https://nojsja.github.io/blogs/2020/03/07/37469a41.html/</id>
+    <published>2020-03-07T08:18:00.000Z</published>
+    <updated>2021-12-04T14:33:18.705Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Javascript" scheme="https://nojsja.github.io/blogs/categories/Javascript/"/>
+    
+    
+    <category term="upload" scheme="https://nojsja.github.io/blogs/tags/upload/"/>
+    
+    <category term="aws" scheme="https://nojsja.github.io/blogs/tags/aws/"/>
+    
+    <category term="s3" scheme="https://nojsja.github.io/blogs/tags/s3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker运行容器化的Tim和Wechat</title>
+    <link href="https://nojsja.github.io/blogs/2019/11/14/85550904.html/"/>
+    <id>https://nojsja.github.io/blogs/2019/11/14/85550904.html/</id>
+    <published>2019-11-14T11:16:00.000Z</published>
+    <updated>2021-12-04T14:33:18.705Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://nojsja.github.io/blogs/categories/Linux/"/>
+    
+    
+    <category term="linux" scheme="https://nojsja.github.io/blogs/tags/linux/"/>
+    
+    <category term="docker" scheme="https://nojsja.github.io/blogs/tags/docker/"/>
+    
+    <category term="desktop" scheme="https://nojsja.github.io/blogs/tags/desktop/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Electron+Mobx+React开发记录（二）</title>
+    <link href="https://nojsja.github.io/blogs/2019/10/26/63567fa4.html/"/>
+    <id>https://nojsja.github.io/blogs/2019/10/26/63567fa4.html/</id>
+    <published>2019-10-26T12:43:00.000Z</published>
+    <updated>2021-12-04T14:33:18.705Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Electron" scheme="https://nojsja.github.io/blogs/categories/Electron/"/>
+    
+    
+    <category term="es6" scheme="https://nojsja.github.io/blogs/tags/es6/"/>
+    
+    <category term="react" scheme="https://nojsja.github.io/blogs/tags/react/"/>
+    
+    <category term="mobx" scheme="https://nojsja.github.io/blogs/tags/mobx/"/>
+    
+    <category term="electron" scheme="https://nojsja.github.io/blogs/tags/electron/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Electron+Mobx+React开发记录（一）</title>
+    <link href="https://nojsja.github.io/blogs/2019/10/14/5340937c.html/"/>
+    <id>https://nojsja.github.io/blogs/2019/10/14/5340937c.html/</id>
+    <published>2019-10-14T08:18:46.000Z</published>
+    <updated>2021-12-04T14:33:18.701Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Mobx" scheme="https://nojsja.github.io/blogs/categories/Mobx/"/>
+    
+    <category term="Electron" scheme="https://nojsja.github.io/blogs/categories/Mobx/Electron/"/>
+    
+    
+    <category term="es6" scheme="https://nojsja.github.io/blogs/tags/es6/"/>
+    
+    <category term="react" scheme="https://nojsja.github.io/blogs/tags/react/"/>
+    
+    <category term="mobx" scheme="https://nojsja.github.io/blogs/tags/mobx/"/>
+    
+    <category term="electron" scheme="https://nojsja.github.io/blogs/tags/electron/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>polipo服务配置shadowsocks终端代理</title>
+    <link href="https://nojsja.github.io/blogs/2019/10/01/c358676f.html/"/>
+    <id>https://nojsja.github.io/blogs/2019/10/01/c358676f.html/</id>
+    <published>2019-10-01T08:30:35.000Z</published>
+    <updated>2021-12-04T14:33:18.701Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://nojsja.github.io/blogs/categories/Linux/"/>
+    
+    
+    <category term="proxy" scheme="https://nojsja.github.io/blogs/tags/proxy/"/>
+    
+    <category term="shadowsocks" scheme="https://nojsja.github.io/blogs/tags/shadowsocks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>联想y7000安装ubuntu18.04显卡驱动解决方案</title>
+    <link href="https://nojsja.github.io/blogs/2019/09/29/6edea707.html/"/>
+    <id>https://nojsja.github.io/blogs/2019/09/29/6edea707.html/</id>
+    <published>2019-09-29T02:49:00.000Z</published>
+    <updated>2021-12-04T14:33:18.697Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://nojsja.github.io/blogs/categories/Linux/"/>
+    
+    
+    <category term="ubuntu18.04" scheme="https://nojsja.github.io/blogs/tags/ubuntu18-04/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu18踩坑记录</title>
+    <link href="https://nojsja.github.io/blogs/2019/06/12/81770652.html/"/>
+    <id>https://nojsja.github.io/blogs/2019/06/12/81770652.html/</id>
+    <published>2019-06-12T08:30:35.000Z</published>
+    <updated>2022-06-17T15:12:03.077Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://nojsja.github.io/blogs/categories/Linux/"/>
+    
+    
+    <category term="ubuntu18.04" scheme="https://nojsja.github.io/blogs/tags/ubuntu18-04/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LinuxMint18日常软件安装配置</title>
+    <link href="https://nojsja.github.io/blogs/2019/04/04/bf638b5c.html/"/>
+    <id>https://nojsja.github.io/blogs/2019/04/04/bf638b5c.html/</id>
+    <published>2019-04-04T08:30:35.000Z</published>
+    <updated>2021-12-04T14:33:18.689Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://nojsja.github.io/blogs/categories/Linux/"/>
+    
+    
+    <category term="linux" scheme="https://nojsja.github.io/blogs/tags/linux/"/>
+    
+    <category term="mint" scheme="https://nojsja.github.io/blogs/tags/mint/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>proxychains终端代理</title>
+    <link href="https://nojsja.github.io/blogs/2019/04/04/d04b08a2.html/"/>
+    <id>https://nojsja.github.io/blogs/2019/04/04/d04b08a2.html/</id>
+    <published>2019-04-04T08:30:35.000Z</published>
+    <updated>2021-12-04T14:33:18.693Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://nojsja.github.io/blogs/categories/Linux/"/>
+    
+    
+    <category term="proxy" scheme="https://nojsja.github.io/blogs/tags/proxy/"/>
+    
+    <category term="shadowsocks" scheme="https://nojsja.github.io/blogs/tags/shadowsocks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>用Javascript实现一个可自定义样式的tootips组件</title>
+    <link href="https://nojsja.github.io/blogs/2018/11/06/f7cb1494.html/"/>
+    <id>https://nojsja.github.io/blogs/2018/11/06/f7cb1494.html/</id>
+    <published>2018-11-06T11:16:00.000Z</published>
+    <updated>2021-12-04T14:33:18.689Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Javascript" scheme="https://nojsja.github.io/blogs/categories/Javascript/"/>
+    
+    
+    <category term="javascript" scheme="https://nojsja.github.io/blogs/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>简单实现一个Javascript动画处理类</title>
+    <link href="https://nojsja.github.io/blogs/2018/11/05/3fd62b7c.html/"/>
+    <id>https://nojsja.github.io/blogs/2018/11/05/3fd62b7c.html/</id>
+    <published>2018-11-04T17:10:00.000Z</published>
+    <updated>2021-12-04T14:33:18.689Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Javascript" scheme="https://nojsja.github.io/blogs/categories/Javascript/"/>
+    
+    
+    <category term="animation" scheme="https://nojsja.github.io/blogs/tags/animation/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用ES5实现ES6中的Promise</title>
+    <link href="https://nojsja.github.io/blogs/2018/10/31/27676ad7.html/"/>
+    <id>https://nojsja.github.io/blogs/2018/10/31/27676ad7.html/</id>
+    <published>2018-10-30T17:15:00.000Z</published>
+    <updated>2021-12-04T14:33:18.689Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Javascript" scheme="https://nojsja.github.io/blogs/categories/Javascript/"/>
+    
+    
+    <category term="promise" scheme="https://nojsja.github.io/blogs/tags/promise/"/>
+    
+    <category term="es6" scheme="https://nojsja.github.io/blogs/tags/es6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>原生Js实现瀑布流效果</title>
+    <link href="https://nojsja.github.io/blogs/2018/07/09/5587aa09.html/"/>
+    <id>https://nojsja.github.io/blogs/2018/07/09/5587aa09.html/</id>
+    <published>2018-07-09T08:01:26.000Z</published>
+    <updated>2021-12-04T14:33:18.685Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Javascript" scheme="https://nojsja.github.io/blogs/categories/Javascript/"/>
+    
+    
+    <category term="javascript" scheme="https://nojsja.github.io/blogs/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>模仿RequireJs的用法写一个低配版的模块加载器</title>
+    <link href="https://nojsja.github.io/blogs/2018/01/04/d2276f2f.html/"/>
+    <id>https://nojsja.github.io/blogs/2018/01/04/d2276f2f.html/</id>
+    <published>2018-01-04T07:25:39.000Z</published>
+    <updated>2021-12-04T14:33:18.685Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Javascript" scheme="https://nojsja.github.io/blogs/categories/Javascript/"/>
+    
+    
+    <category term="devtools" scheme="https://nojsja.github.io/blogs/tags/devtools/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>sass开发规范</title>
+    <link href="https://nojsja.github.io/blogs/2017/10/21/be1a9446.html/"/>
+    <id>https://nojsja.github.io/blogs/2017/10/21/be1a9446.html/</id>
+    <published>2017-10-21T08:30:35.000Z</published>
+    <updated>2021-12-04T14:33:18.685Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Sass" scheme="https://nojsja.github.io/blogs/categories/Sass/"/>
+    
+    
+    <category term="sass" scheme="https://nojsja.github.io/blogs/tags/sass/"/>
+    
+    <category term="css" scheme="https://nojsja.github.io/blogs/tags/css/"/>
     
   </entry>
   
