@@ -6,7 +6,7 @@
   <link href="https://nojsja.github.io/blogs/atom.xml" rel="self"/>
   
   <link href="https://nojsja.github.io/blogs/"/>
-  <updated>2022-06-17T15:29:15.890Z</updated>
+  <updated>2022-12-31T09:42:52.019Z</updated>
   <id>https://nojsja.github.io/blogs/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Node.js 实现轻量化进程池和线程池</title>
+    <link href="https://nojsja.github.io/blogs/2022/09/20/24601e15.html/"/>
+    <id>https://nojsja.github.io/blogs/2022/09/20/24601e15.html/</id>
+    <published>2022-09-20T02:44:18.000Z</published>
+    <updated>2022-12-31T09:42:52.019Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="ChildProcessPool" scheme="https://nojsja.github.io/blogs/categories/ChildProcessPool/"/>
+    
+    <category term="WorkerThreadPool" scheme="https://nojsja.github.io/blogs/categories/ChildProcessPool/WorkerThreadPool/"/>
+    
+    
+    <category term="child_process" scheme="https://nojsja.github.io/blogs/tags/child-process/"/>
+    
+    <category term="worker_threads" scheme="https://nojsja.github.io/blogs/tags/worker-threads/"/>
+    
+  </entry>
   
   <entry>
     <title>网络代理客户端开发日记2：负载均衡网关</title>
@@ -162,7 +191,7 @@
     <link href="https://nojsja.github.io/blogs/2021/12/22/1deae768.html/"/>
     <id>https://nojsja.github.io/blogs/2021/12/22/1deae768.html/</id>
     <published>2021-12-22T05:22:31.000Z</published>
-    <updated>2021-12-24T14:24:10.720Z</updated>
+    <updated>2022-09-30T13:19:27.056Z</updated>
     
     
       
@@ -664,7 +693,7 @@
     <link href="https://nojsja.github.io/blogs/2020/03/26/7507699.html/"/>
     <id>https://nojsja.github.io/blogs/2020/03/26/7507699.html/</id>
     <published>2020-03-26T08:18:00.000Z</published>
-    <updated>2021-12-04T14:33:18.705Z</updated>
+    <updated>2022-09-30T13:19:27.056Z</updated>
     
     
       
@@ -890,11 +919,11 @@
   </entry>
   
   <entry>
-    <title>Ubuntu18踩坑记录</title>
+    <title>Ubuntu18 踩坑记录</title>
     <link href="https://nojsja.github.io/blogs/2019/06/12/81770652.html/"/>
     <id>https://nojsja.github.io/blogs/2019/06/12/81770652.html/</id>
     <published>2019-06-12T08:30:35.000Z</published>
-    <updated>2022-06-17T15:12:03.077Z</updated>
+    <updated>2023-01-01T08:22:57.595Z</updated>
     
     
       
@@ -911,6 +940,10 @@
     
     
     <category term="ubuntu18.04" scheme="https://nojsja.github.io/blogs/tags/ubuntu18-04/"/>
+    
+    <category term="ubuntu22.04" scheme="https://nojsja.github.io/blogs/tags/ubuntu22-04/"/>
+    
+    <category term="ubuntu22.10" scheme="https://nojsja.github.io/blogs/tags/ubuntu22-10/"/>
     
   </entry>
   
