@@ -6,7 +6,7 @@
   <link href="https://nojsja.github.io/blogs/atom.xml" rel="self"/>
   
   <link href="https://nojsja.github.io/blogs/"/>
-  <updated>2022-12-31T09:42:52.019Z</updated>
+  <updated>2023-06-04T08:56:00.399Z</updated>
   <id>https://nojsja.github.io/blogs/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用 Jest 进行单元测试</title>
+    <link href="https://nojsja.github.io/blogs/2023/05/23/de34e8cc.html/"/>
+    <id>https://nojsja.github.io/blogs/2023/05/23/de34e8cc.html/</id>
+    <published>2023-05-23T06:03:02.000Z</published>
+    <updated>2023-06-04T08:56:00.399Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Test" scheme="https://nojsja.github.io/blogs/categories/Test/"/>
+    
+    
+    <category term="react" scheme="https://nojsja.github.io/blogs/tags/react/"/>
+    
+    <category term="jest" scheme="https://nojsja.github.io/blogs/tags/jest/"/>
+    
+    <category term="react-native" scheme="https://nojsja.github.io/blogs/tags/react-native/"/>
+    
+    <category term="unit-test" scheme="https://nojsja.github.io/blogs/tags/unit-test/"/>
+    
+  </entry>
   
   <entry>
     <title>Node.js 实现轻量化进程池和线程池</title>
@@ -151,9 +182,9 @@
     <category term="Performance" scheme="https://nojsja.github.io/blogs/categories/Webpack/Performance/"/>
     
     
-    <category term="webpack" scheme="https://nojsja.github.io/blogs/tags/webpack/"/>
-    
     <category term="performance" scheme="https://nojsja.github.io/blogs/tags/performance/"/>
+    
+    <category term="webpack" scheme="https://nojsja.github.io/blogs/tags/webpack/"/>
     
   </entry>
   
@@ -209,9 +240,9 @@
     <category term="Node" scheme="https://nojsja.github.io/blogs/categories/Electron/Node/"/>
     
     
-    <category term="node" scheme="https://nojsja.github.io/blogs/tags/node/"/>
-    
     <category term="electron" scheme="https://nojsja.github.io/blogs/tags/electron/"/>
+    
+    <category term="node" scheme="https://nojsja.github.io/blogs/tags/node/"/>
     
     <category term="process" scheme="https://nojsja.github.io/blogs/tags/process/"/>
     
@@ -387,9 +418,9 @@
     
     <category term="javascript" scheme="https://nojsja.github.io/blogs/tags/javascript/"/>
     
-    <category term="performance" scheme="https://nojsja.github.io/blogs/tags/performance/"/>
-    
     <category term="html" scheme="https://nojsja.github.io/blogs/tags/html/"/>
+    
+    <category term="performance" scheme="https://nojsja.github.io/blogs/tags/performance/"/>
     
   </entry>
   
@@ -466,9 +497,9 @@
     <category term="Node" scheme="https://nojsja.github.io/blogs/categories/Electron/Node/"/>
     
     
-    <category term="node" scheme="https://nojsja.github.io/blogs/tags/node/"/>
-    
     <category term="electron" scheme="https://nojsja.github.io/blogs/tags/electron/"/>
+    
+    <category term="node" scheme="https://nojsja.github.io/blogs/tags/node/"/>
     
     <category term="process" scheme="https://nojsja.github.io/blogs/tags/process/"/>
     
@@ -497,9 +528,9 @@
     <category term="Node" scheme="https://nojsja.github.io/blogs/categories/Electron/Node/"/>
     
     
-    <category term="node" scheme="https://nojsja.github.io/blogs/tags/node/"/>
-    
     <category term="electron" scheme="https://nojsja.github.io/blogs/tags/electron/"/>
+    
+    <category term="node" scheme="https://nojsja.github.io/blogs/tags/node/"/>
     
     <category term="process" scheme="https://nojsja.github.io/blogs/tags/process/"/>
     
@@ -738,9 +769,9 @@
     <category term="Echarts" scheme="https://nojsja.github.io/blogs/categories/Echarts/"/>
     
     
-    <category term="echarts" scheme="https://nojsja.github.io/blogs/tags/echarts/"/>
-    
     <category term="react" scheme="https://nojsja.github.io/blogs/tags/react/"/>
+    
+    <category term="echarts" scheme="https://nojsja.github.io/blogs/tags/echarts/"/>
     
   </entry>
   
@@ -923,7 +954,7 @@
     <link href="https://nojsja.github.io/blogs/2019/06/12/81770652.html/"/>
     <id>https://nojsja.github.io/blogs/2019/06/12/81770652.html/</id>
     <published>2019-06-12T08:30:35.000Z</published>
-    <updated>2023-01-01T08:22:57.595Z</updated>
+    <updated>2023-06-04T08:51:51.399Z</updated>
     
     
       
