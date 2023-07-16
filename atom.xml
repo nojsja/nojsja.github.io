@@ -6,7 +6,7 @@
   <link href="https://nojsja.github.io/blogs/atom.xml" rel="self"/>
   
   <link href="https://nojsja.github.io/blogs/"/>
-  <updated>2023-06-04T08:56:00.399Z</updated>
+  <updated>2023-07-16T07:47:22.331Z</updated>
   <id>https://nojsja.github.io/blogs/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>VSCode 架构学习笔记</title>
+    <link href="https://nojsja.github.io/blogs/2023/07/09/9c53abdb.html/"/>
+    <id>https://nojsja.github.io/blogs/2023/07/09/9c53abdb.html/</id>
+    <published>2023-07-09T15:33:20.000Z</published>
+    <updated>2023-07-16T07:47:22.331Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Architecture" scheme="https://nojsja.github.io/blogs/categories/Architecture/"/>
+    
+    <category term="VSCode" scheme="https://nojsja.github.io/blogs/categories/Architecture/VSCode/"/>
+    
+    
+    <category term="vscode" scheme="https://nojsja.github.io/blogs/tags/vscode/"/>
+    
+  </entry>
   
   <entry>
     <title>使用 Jest 进行单元测试</title>
